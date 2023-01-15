@@ -1,0 +1,86 @@
+
+#titel {
+
+    margin-right: 15px;
+  
+}
+.save {
+
+    width: 80%;
+    height:30px;
+    display: flex;
+    justify-content: center;
+    
+}
+.search {
+    margin-right: 4cm;
+    width: 80%;
+  
+}
+.input{
+    margin : 5px;
+    padding : 5px;
+    border-radius : 5px;
+  
+
+}
+.input:focus{
+  background: rgb(255, 255, 255);
+  transform: scale(1.1); ;
+}
+#tottal{
+  background: red;
+  color: white;
+  padding: 5px 2px;
+  border-radius : 5px;
+  margin-right: 4cm;
+}
+button
+{
+  align-self: center;
+  cursor: pointer;
+  transition: 0.5s;
+
+  color: rgb(0, 0, 0);
+  border-radius: 15px;
+  padding: 5px; 
+  margin: 5px 0;
+  width: 80%;
+  text-align: center;
+  
+ 
+
+}
+
+.btns{
+  margin-right: 4cm;
+  text-align: center;
+  margin-bottom: 5px;
+  justify-content: space-between;
+  
+
+}
+.btns button{
+  width: 25%;
+  height: 35px;
+  text-align: center;
+
+}
+
+table{
+  width: 100%;
+  text-align: center;
+  margin: 10px 0;
+}
+table th{
+  text-transform: uppercase;
+}
+th,td{
+  padding: 5px;
+  
+}
+.value input{
+  width: 80%;
+  margin-right: 6px;
+  
+}
